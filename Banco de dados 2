@@ -1,0 +1,18 @@
+
+DELIMITER $$
+CREATE PROCEDUREcontabilidade_produtos
+BEGIN
+/*CORPO DO PROCEDIMENTO
+Controle de vendas de produtos e cadastro de clientes
+ Aurélio Qtd: 6	Mateus Qtd: 6	Marcos Qtd: 8 
+Márcio    Qtd: 9	Junior Qtd: 8	Fabricio Qtd: 13
+Jonas  Qtd: 14	Miqueias Qtd: 9	Renato Qtd: 20
+Neto Qtd: 16	Miguel Qtd: 13	Jânio Qtd: 25
+Produtos :		
+Feijão	Arroz	Frango
+Soma:  45	36	66
+
+END$$ 
+DELIMITER:
+
+
